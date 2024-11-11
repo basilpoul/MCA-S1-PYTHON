@@ -1,0 +1,11 @@
+1.Area and perimeter of circle
+2.Swap 2 numbers
+3.Largest of 3 numbers
+4.Perform addition,subtraction,multiplication,division. 
+  read 2 numbers from user,display menu of operations available,read choice from user,perform the chosen operation
+5.Display the first n multiples of a given number
+6.Sum of first 100 even numbers
+7.Factorial of a number
+8.Find the number of digits in a given number
+9.Check whether an year is leap year or not
+10.Find roots of a quadratic equation
