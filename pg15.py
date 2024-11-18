@@ -1,8 +1,6 @@
 string=input("Enter a string ")
-l=input("Enter the letter ")
-k=0
-for i in string:
-    if i==l:
-        k+=1
+unique=set(string)
 
-print(f"The character {l} appears {k} times in {string}")        
+for i in unique:
+    print(f"The character {i} appears {string.count(i)} times in {string}")
+
