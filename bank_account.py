@@ -29,8 +29,8 @@ basil.withdraw(1200)
 
 subi.deposit(5000)
 
-print(basil.balance())
-print(subi.balance())  
-
 print(basil.details())
+print(f"Balance : {basil.balance()}")
+
 print(subi.details())
+print(f"Balance : {subi.balance()}")
